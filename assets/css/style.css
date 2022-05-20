@@ -95,7 +95,7 @@ color: rgb(6, 32, 51);
 .hero {
  padding-top:0%;
 
-   background-image: url("/portafolio/assets/img/fondoo.jpg");
+   background-image: url("./assets/img/fondoo.jpg");
   background-size:auto;
   background-position: center;
 
